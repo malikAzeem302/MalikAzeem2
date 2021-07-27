@@ -1,1 +1,10 @@
-# MalikAzeem2
+# pkg update
+# pkg upgrade
+# pkg install python
+# pkg install python2
+# pkg install git
+# pip2 install requests
+# pip2 install mechanize
+# https://github.com/malikAzeem302/MalikAzeem2
+# cd Cloner
+# python2 Cloner.so
